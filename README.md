@@ -60,18 +60,6 @@ that makes a product findable once it's live.
 
 ---
 
-## AI / ML & Automation Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| LLM API Integration | Applied | Live Anthropic Claude API integration across multi-agent chat simulators and pipelines |
-| Agentic Tooling | Applied | Built a 140+ persona AI agent management console with semantic search & config export |
-| AI-Assisted Engineering | Daily Use | Claude, ChatGPT, GitHub Copilot, Cursor, Windsurf, Antigravity in production workflows |
-| Personal Automation | Ongoing | Python-based voice assistant ("Jarvis") with a 50+ feature automation roadmap |
-| Prompt/System Design | Applied | Designs implementation specs and structured prompts for AI coding IDEs |
-
----
-
 ## Experience
 
 **Co-Founder** — Ignitia Digital
@@ -108,16 +96,6 @@ Co-founded and operate a digital agency delivering full-stack web development an
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan174Pareek&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" width="48%"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Karan174Pareek&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
