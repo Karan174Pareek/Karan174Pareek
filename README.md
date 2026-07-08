@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Karan%20Pareek&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Karan%20Pareek&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Co-Founder+%40+Ignitia+Digital;MERN+Stack+%7C+React+%7C+Node.js;Building+AI-Integrated+Web+Products;Systems+that+bridge+Cloud+%26+Legacy+Software" alt="Typing SVG" />
@@ -85,7 +85,6 @@ Co-founded and operate a digital agency delivering full-stack web development an
 `HTML` `CSS` `JavaScript` `SEMrush` `Google Analytics` `Technical SEO`
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
