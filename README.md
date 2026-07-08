@@ -124,9 +124,7 @@ current_focus:
     - Advanced system design for hybrid cloud/local architectures
     - Deeper AI agent orchestration patterns
   building:
-    - Order management platform (cloud + TallyPrime sync)
-    - Agency Explorer AI agent console
-    - Jarvis — personal automation assistant
+    - Ignitia Digital
   exploring:
     - Multi-agent chaining pipelines
     - Applied LLM tooling for developer workflows
