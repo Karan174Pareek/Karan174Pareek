@@ -89,14 +89,10 @@ Co-founded and operate a digital agency delivering full-stack web development an
 ## GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Karan174Pareek&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Karan174Pareek&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=Karan174Pareek&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="48%"/>
-
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan174Pareek&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" width="48%"/>
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karan174Pareek&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" width="48%"/>
 </div>
 
 ---
@@ -150,7 +146,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanpareek174@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanpareek/)
 [![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karan174Pareek)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Karan174Pareek)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)]([https://github.com/Karan174Pareek](https://personal-portfolio-gamma-three-31.vercel.app/))
 
 </div>
 
