@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light_mode.svg">
-  <img alt="Karan Pareek's GitHub profile card" src="assets/light_mode.svg">
-</picture>
-
 # Karan Pareek
 
 **Full Stack Developer | MERN Stack | Cloud-Native & AI**
