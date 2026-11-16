@@ -29,9 +29,9 @@ role: Full-Stack Developer | Cloud-Native & AI Infrastructure Builder
 education: BCA Honours (CGPA: 7.5) @ Inspiria Knowledge Campus (2023 - 2027)
 venture: Co-Founder @ Ignitia Digital (6+ live client websites & web apps shipped)
 shipped_architecture:
-  - Self-hosted Git server on the Smart HTTP protocol
-  - Multi-tenant career-placement platform
-  - Team MCP gateway on Kubernetes with Helm
+  - Conduit: Team MCP Gateway on Kubernetes with Helm, RBAC & circuit breakers
+  - ReconcileAI: 3-tier AI payment-gateway & GST settlement reconciliation engine
+  - 6+ Production Web Platforms: Full-stack MERN & e-commerce systems via Ignitia Digital
 currently_building:
   - Pushr: Push-to-deploy Mini-Heroku PaaS on k3d/Kubernetes (Kaniko + Buildpacks)
 core_strengths: End-to-end MERN architecture, Kubernetes orchestration, LLM tool-routing, DSA & OOP
